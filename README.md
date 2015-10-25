@@ -15,4 +15,8 @@ http://stackoverflow.com/a/24486142
 Adding this theme:
 https://github.com/CloudCannon/Arcana-Jekyll-Theme
 
+Adding theme:
+https://github.com/CloudCannon/Horizons-Jekyll-Theme
+
+
 
