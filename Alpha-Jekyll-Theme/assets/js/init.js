@@ -9,13 +9,13 @@
 	skel.init({
 		reset: 'full',
 		breakpoints: {
-			global:		{ range: '*', href: '/Alpha-Jekyll-Theme/assets/css/style.css', containers: '60em', grid: { gutters: { vertical: '2em', horizontal: 0 } } },
-			wide:		{ range: '-1680', href: '/Alpha-Jekyll-Theme/assets/css/style-wide.css' },
-			normal:		{ range: '-1280', href: '/Alpha-Jekyll-Theme/assets/css/style-normal.css', grid: { gutters: { vertical: '1.5em' } }, viewport: { scalable: false } },
-			narrow:		{ range: '-980', href: '/Alpha-Jekyll-Theme/assets/css/style-narrow.css', containers: '90%' },
-			narrower:	{ range: '-840', href: '/Alpha-Jekyll-Theme/assets/css/style-narrower.css', grid: { collapse: 1 } },
-			mobile:		{ range: '-640', href: '/Alpha-Jekyll-Theme/assets/css/style-mobile.css', containers: '100%', grid: { gutters: { vertical: '1em' } } },
-			mobilep:	{ range: '-480', href: '/Alpha-Jekyll-Theme/assets/css/style-mobilep.css', grid: { collapse: 2 } }
+			global:		{ range: '*', href: '/mechanical_jupiter/Alpha-Jekyll-Theme/assets/css/style.css', containers: '60em', grid: { gutters: { vertical: '2em', horizontal: 0 } } },
+			wide:		{ range: '-1680', href: '/mechanical_jupiter/Alpha-Jekyll-Theme/assets/css/style-wide.css' },
+			normal:		{ range: '-1280', href: '/mechanical_jupiter/Alpha-Jekyll-Theme/assets/css/style-normal.css', grid: { gutters: { vertical: '1.5em' } }, viewport: { scalable: false } },
+			narrow:		{ range: '-980', href: '/mechanical_jupiter/Alpha-Jekyll-Theme/assets/css/style-narrow.css', containers: '90%' },
+			narrower:	{ range: '-840', href: '/mechanical_jupiter/Alpha-Jekyll-Theme/assets/css/style-narrower.css', grid: { collapse: 1 } },
+			mobile:		{ range: '-640', href: '/mechanical_jupiter/Alpha-Jekyll-Theme/assets/css/style-mobile.css', containers: '100%', grid: { gutters: { vertical: '1em' } } },
+			mobilep:	{ range: '-480', href: '/mechanical_jupiter/Alpha-Jekyll-Theme/assets/css/style-mobilep.css', grid: { collapse: 2 } }
 		}
 	}, {
 		layers: {
