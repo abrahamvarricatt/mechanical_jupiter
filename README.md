@@ -18,5 +18,8 @@ https://github.com/CloudCannon/Arcana-Jekyll-Theme
 Adding theme:
 https://github.com/CloudCannon/Horizons-Jekyll-Theme
 
+Adding theme:
+https://github.com/CloudCannon/Ion-Jekyll-Theme
+
 
 
