@@ -6,4 +6,6 @@ The submodule idea isn't going to work as I wanted to. I needed a way to both tr
 changes to it. The latter won't work unless the repo is in my control. So, I'm going to delete the submodule and make
 a fresh directory checkout of it. 
 
+Adding this theme:
+https://github.com/CloudCannon/Alpha-Jekyll-Theme
 
