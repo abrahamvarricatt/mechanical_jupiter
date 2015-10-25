@@ -9,3 +9,6 @@ a fresh directory checkout of it.
 Adding this theme:
 https://github.com/CloudCannon/Alpha-Jekyll-Theme
 
+Made a new static site and over-wrote the existing one. Used a 'force' copy to fix the broken links. Ref:
+http://stackoverflow.com/a/24486142
+
